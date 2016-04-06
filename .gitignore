@@ -17,6 +17,11 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Ignored directories
+.metadata/
+.recommenders/
+CS2114-Support/
+
 # =========================
 # Operating System Files
 # =========================
